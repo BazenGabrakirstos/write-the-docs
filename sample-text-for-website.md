@@ -1,23 +1,38 @@
-# My GitHub Pages site
+#POST CARE INSTRUCTIONS
 
-## Basic terminology
 
-You can think of a Git _repository_ as the folder for your project that contains all the component files, such as code, documentation, and examples. You can store your repositories on GitHub, where they can be publicly visible (open source) or be private and only accessible to certain users.
+##General Information:
 
-When you start working on a project, you need to make your own _branch_ of a repository, which is a parallel version that contains your changes. As you make modifications, like adding or deleting lines of code or files, you save, or _commit_, your changes.
+If you are injured as a result of participating; you will be treated appropriately.  Logo will cover your reasonable and necessary cost of medical treatment(please refer to your consent form document to see more specifics on what is covered by Logo.
 
-To propose integrating your commits into the production version of the project, known as the _master branch_, you open a _pull request_. A pull request is the way you start a discussion with others about your changes. Other _collaborators_ on the project can review and approve your work. After your pull request is _merged_, your changes are added to the master branch.
+##Venous:
 
-You can review the [GitHub Glossary](https://help.github.com/articles/github-glossary/) to learn more about common terms.
+If you require a venous blood draw and/or venous line placement(I.V.) please read the following reminders:
 
-## General workflow for making a website with GitHub Pages
+*Keep the site clean and dry until the removal of the bandage.
+*You may remove the bandage and Band-Aid in:
+*1 hour for venous blood draw 
+*2 hours for I.V. 
+*Bruising and tenderness can occur and maybe normal.If there are any bruising it should dissipate in approximately 7-10 days.
+*Please call Logo if any of the following occur: 
+*Redness, swelling, tingling, or a numbness which lasts longer than 2-3 hours.
+*A lump that develops that  does not dissipate or has any active bleeding. If  there is active bleeding. Place three fingers over the insertion site, lift *arm to heart level and hold pressure until the bleeding stops. Call Logo and instructions will be given to follow if urgent care visit is necessary. 
+##Arterial:
 
-You can follow these general instructions to make a website with GitHub Pages.
+If you  an arterial line placement please read the following reminders:
 
-1. Create a new repository for your site.
-2. Create a branch to hold your changes.
-2. Add some files for your website. At a minimum, you need a file for the homepage. You can name this file index.md and use markdown formatting, or index.html and add the basic HTML page structure.
-3. Open a pull request to propose adding your changes into the master branch.
-4. Merge files into the master branch.
-5. Go to the repository settings and enable GitHub Pages on the master branch.
-6. Open browser to the page.
+*No heavy lifting, no repetitive movements of the wrist,no working out (exercise) for 24 hours.
+*Keep site clean and dry until the removal of the bandage.
+*You may remove the bandage and pressure dressing in: 4-6 hours.( do not leave pressure dressing on overnight)
+*Bruising and tenderness can occur and maybe normal.If there are any bruising it should dissipate in approximately 7-10 days.
+*Please call Logo if any of the following occur: 
+*Redness,swelling,tingling,or a numbness which lasts longer than 2-3 hours.
+*A lump that develops that  does not dissipate or has any active bleeding. If  there is active bleeding. place three fingers over the insertion site, lift arm to heart level and hold pressure until the bleeding stops. Call Logo and instructions will be given to follow if urgent care visit is necessary.
+
+Contact Information:
+
+If you are injured as a result of participating in this trial, please call LOGO at (XXX)XXX-XXXX during standard business hours and ask to speak to a member of the clinical team.
+
+If you reach us outside standard business hours, you may call (XXX)XXX-XXXX.
+
+In the event that  you are unable to speak with someone at LOGO, please visit your local urgent care facility and contact LOGO  as soon as possible. Please keep all of your original receipts and records relating to any medical treatment that was required because of your participation in this study.
